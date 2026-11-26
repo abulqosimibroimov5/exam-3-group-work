@@ -193,3 +193,23 @@ a {
     margin-left: 200px;
     display: flex;
 }
+.salom44{
+    padding: 50px;
+    background-color: #383638;
+    display: flex;
+    gap: 50px;
+    color: white;
+}
+.salom50{
+    display: flex;
+    gap: 80px;
+}
+.salom51{
+    width: 50%;
+    height: 70px;
+    object-fit: contain;
+}
+.salom53{
+    margin-left: 530px;
+    margin-top: -400px;
+}
