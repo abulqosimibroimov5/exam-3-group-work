@@ -49,3 +49,33 @@ a {
     color: white;
     border: none;
 }
+.salom9{
+    margin-top: 100px;
+    margin-left: 350px;
+}
+.salom10{
+    margin-top: -500px;
+    background-color: white;
+    position: absolute;
+    padding: 10px 30px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px #0002;
+}
+.salom12{
+    color: grey;
+    margin-top: -25px;
+    margin-left: 25px;
+}
+.salom13{
+    margin-top: -100px;
+    background-color: white;
+    margin-left: 600px;
+    position: absolute;
+    padding: 10px 30px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px #0002;
+}
+.salom14{
+        margin-top: -25px;
+    margin-left: 40px;
+}
