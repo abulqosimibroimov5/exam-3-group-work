@@ -62,3 +62,44 @@
     margin-top: -100px;
     position: relative;
 }
+.div8{
+    margin-top: 150px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.div8 p{
+    margin-top: 30px;
+    color: #949393;
+}
+.div8 button{
+    margin-top: 30px;
+    border: none;
+    background-color: #DD2242;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 30px;
+    font-weight: 400;
+}
+.div9{
+    margin-top: 100px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.div9 p{
+    margin-top: 30px;
+    color: #949393;
+}
+.div9 button{
+    margin-top: 30px;
+    border: none;
+    background-color: #DD2242;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-weight: 400;
+}
