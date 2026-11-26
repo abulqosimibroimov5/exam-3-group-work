@@ -50,7 +50,7 @@ a {
     border: none;
 }
 .salom9{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 350px;
 }
 .salom10{
@@ -78,4 +78,46 @@ a {
 .salom14{
         margin-top: -25px;
     margin-left: 40px;
+}
+.salom15{
+    margin-left: 1100px;
+}
+.salom16{
+    margin-top: 100px;
+    text-align: center;
+}
+.salom17{
+    color: #377DFF;
+}
+.salom18{
+    margin-left: 100px;
+    display: flex;
+}
+.salom20{
+    color: grey;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.salom21{
+     margin-left: 800px;
+    display: flex;
+    gap: 30px;
+}
+.salom22{
+    background-color: #377DFF;
+    color: white;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 30px;
+}
+.salom23{
+    margin-left: 30px;
+    color: #377DFF;
+    background-color: white;
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+.salom24{
+    margin-left: 800px;
+    margin-top: -100px;
 }
