@@ -172,3 +172,40 @@
     color: white;
     border-radius: 30px;
 }
+.div20{
+    margin-top: 45px;
+}
+.div21{
+    margin-top: -800px;
+}
+.div22{
+    margin-top: -700px;
+    text-align: center;
+    justify-content: center;
+    font-size: 13px;
+    color: white;
+}
+.div23{
+    margin-left: 370px;
+    margin-top: 50px;
+}
+.div24{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.div25{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+    font-size: 10px;
+}
+.div26{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+    font-size: 10px;
+}
