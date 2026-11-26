@@ -147,3 +147,28 @@
 .div16 p{
     color: #E0E0E0;
 }
+.div17{
+    margin-top: 60px;
+    
+}
+.div18{
+    margin-top: -380px;
+    margin-left: 355px;
+}
+.div19{
+    text-align: center;
+    justify-content: center;
+    margin-top: -300px;
+}
+.div19 p{
+    margin-top: 30px;
+    color: #939393;
+}
+.div19 button{
+    margin-top: 30px;
+    border: none;
+    background-color: #DD2242;
+    padding: 15px 35px;
+    color: white;
+    border-radius: 30px;
+}
