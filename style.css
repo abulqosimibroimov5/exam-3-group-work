@@ -1,0 +1,36 @@
+.name {
+    padding: 20px;
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+}
+.salom{
+    margin-left: 100px;
+    display: flex;
+}
+.salom1{
+    gap: 50px;
+    font-size: 20px;
+    margin-left: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.salom2{
+    color: grey;
+}
+.salom3{
+    color: #377DFF;
+    border-color: #377DFF;
+    border-radius: 30px;
+    padding: 15px 50px;
+    background-color: white;
+    margin-left: 100px;
+}
