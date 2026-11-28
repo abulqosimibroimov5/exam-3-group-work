@@ -242,3 +242,100 @@
     margin-left: 740px;
     margin-top: -205px;
 }
+.div34{
+    height: 900px;
+    background-color: #DCE8F2;
+    margin-top: 100px;
+}
+.div34 h1{
+    margin-left: 200px;
+    padding-top: 20px;
+}
+.div35{
+    display: flex;
+    gap: 50px;
+    margin-top: -750px;
+    margin-left: 200px;
+}
+.div35 a{
+    padding: 15px 25px;
+    font-size: 20px;
+    background-color: #DD2242;
+    color: white;
+    text-decoration: none;
+    border-radius: 100%;
+}
+.div35 h1{
+    font-size: 16px;
+}
+.div35 p{
+    font-size: 15px;
+    margin-top: 10px;
+    color: #949393;
+}
+.div36{
+    margin-top: 130px;
+    gap: 50px;
+    display: flex;
+    margin-left: 200px;
+}
+.div36 a{
+    padding: 17px 25px;
+    font-size: 20px;
+    background-color: #DD2242;
+    color: white;
+    text-decoration: none;
+    border-radius: 100%;
+}
+.div36 h1{
+    font-size: 16px;
+}
+.div36 p{
+    font-size: 15px;
+    margin-top: 10px;
+    color: #949393;
+}
+.div37{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.div37 h1{
+    font-size: 20px;
+}
+.div37 p{
+    margin-top: 10px;
+    color: #949393;
+    font-size: 17px;
+}
+.div38{
+    display: flex;
+    gap: 50px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.div38 a{
+    text-decoration: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    background-color: #DD2242;
+    color: white;
+    border-radius: 100%;
+}
+.div38 h1{
+    font-size: 16px;
+}
+.div38 p{
+    font-size: 15px;
+    margin-top: 10px;
+    color: #949393;
+}
+.div38 button{
+    margin-top: 10px;
+    border: none;
+    background-color: #DD2242;
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: white;
+}
